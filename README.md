@@ -28,7 +28,7 @@ completion or award certificates.
 - **Beautiful lettering.** Choose from 12 included fonts, from elegant handwriting styles to classic and formal
   lettering, or use any font already on your computer. Long names shrink automatically to fit the space.
 - **Works with any paper size.** A4, A3, A5, Letter, Legal, upright or sideways, or your own custom size.
-- **Print with confidence.** Print straight to your printer, or save a PDF to check first. Save a PDF that
+- **Print with confidence.** Print to any printer, or save a PDF to check first. Save a PDF that
   includes the certificate design too, ready to email.
 - **Printer a little off?** If your printer places text slightly too high or to one side, nudge it once in the
   template and every future print is corrected.
